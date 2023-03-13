@@ -8,5 +8,6 @@ namespace PISVjezba1
 {
     class NewClass
     {
+        console.writeLine("promjena")
     }
 }
