@@ -12,6 +12,14 @@ namespace PISVjezba1
         {
             Console.WriteLine("Hello world, stan LOONA");
             Console.WriteLine("Hello kolegice :) "); //komentar
+             Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!");
         }
     }
 }
