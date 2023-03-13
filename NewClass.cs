@@ -10,7 +10,8 @@ namespace PISVjezba1
     {
         static void Main(string[] args)
         {
-        
+            Console.WriteLine("promjena");
         }
+        
     }
 }
